@@ -3,13 +3,13 @@
 **Instructions:**
 
 - Reset GPU clocks, power and voltage to default
-- Start Excavator
+- Start Excavator v1.7.3b/NHQM 0.5.2 or older
 - Start the script
 - Follow the instructions to set correct GPU Core Clock and Memory Clock
 
 **Note:**
 
-Tested on RTX 3080 and RTX 3080 Ti only.
+Tested on RTX 3080 and RTX 3080 Ti only. Not compatible with newest Excavator/NHQM because of their own implementation of LHR hack which can't be disabled.
 
 | GPU  | Memory OC | Hashrate | Power | Efficiency |
 | --- | --- | --- | --- | --- |
