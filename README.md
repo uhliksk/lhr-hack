@@ -24,5 +24,5 @@ Standalone version
 
 | GPU  | Memory OC | Hashrate | Power | Efficiency |
 | --- | --- | --- | --- | --- |
-| RTX 3080  | +1050 MHz | 73.83 MH/s | 200 W | 369.15 kH/J |
-| RTX 3080 Ti  | +1400 MHz | 90.83 MH/s  | 246 W | 369.22 kH/J |
+| RTX 3080  | +1050 MHz | 98.10 MH/s | 233 W | 421.03 kH/J |
+| RTX 3080 Ti  | +1400 MHz | 120.32 MH/s  | 290 W | 414.90 kH/J |
